@@ -1,7 +1,7 @@
 {
     "name": "hero",
     "description": "web on heroku",
-    "keywords": ["v3ray tr0jan-gogogo shadow55ocks g0st br00k t0r"],
+    "keywords": ["v300000ray tr0jan-gogo000go shadow500005ocks g3330st br011110k t00110r"],
     "env": {
         "AA": {
             "description": "初阶用户只需填写App name后按需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
@@ -12,16 +12,16 @@
             "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/mixool/kuhero/blob/master/etc/CADDYIndexPage.md",
-            "value": "https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html"
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Abrakian/bbsionmbeltonmemaster/blob/master/etc/CADDYIndexPage.md",
+            "value": "https://github.com/wulabing/3DCEList/archive/master.zip"
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/Abrakian/p-g-d-z1-/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/Abrakian/bbsionmbeltonmemaster/master/etc/Caddyfile"
         },
         "CONFIGV2RAY": {
             "description": "自定义网络地址读取配置运行V2RAY，不熟悉V2RAY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/Abrakian/p-g-d-z1-/master/etc/v2ray.json"
+            "value": "https://raw.githubusercontent.com/Abrakian/bbsionmbeltonmemaster/master/etc/v2ray.json"
         },
         "EnableBROOK": {
             "description": "默认关闭BROOK，修改为true时开启",
@@ -37,7 +37,7 @@
         },
         "EnableTOR": {
             "description": "默认启用TOR，修改为false时关闭",
-            "value": "true"
+            "value": "false"
         },
         "EnableV2RAY": {
             "description": "默认启用V2RAY，修改为false时关闭",
@@ -49,10 +49,10 @@
         },
         "ParameterSSENCYPT": {
             "description": "SS加密方式",
-            "value": "chacha20-ietf-poly1305"
+            "value": "aes-128-gcm"
         }
     },
-    "website": "https://github.com/Abrakian/p-g-d-z1-",
-    "repository": "https://github.com/Abrakian/p-g-d-z1-",
+    "website": "https://github.com/Abrakian/bbsionmbeltonmemaster",
+    "repository": "https://github.com/Abrakian/bbsionmbeltonmemaster",
     "stack": "container"
 }
